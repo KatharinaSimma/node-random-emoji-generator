@@ -53,5 +53,8 @@
     "eslint-plugin-react": "7.31.11",
     "eslint-plugin-react-hooks": "4.6.0",
     "@typescript-eslint/utils": "5.47.1"
+  },
+  "dependencies": {
+    "node-emoji": "^1.11.0"
   }
 }
